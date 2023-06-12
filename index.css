@@ -1,0 +1,10 @@
+#input {
+  min-width: 200px;
+  min-height: 30px;
+  margin-right: 20px;
+}
+#div {
+  display: inline-block;
+  max-width: 200px;
+  min-height: 30px;
+}
